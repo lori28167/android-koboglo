@@ -26,7 +26,10 @@ To start using your kobo after the image of android got installed on the sd card
 - Put the sd card in the internal sd card slot
 - Just turn it on
 
+# Restore
+If your device doesn't boot you need to restore the image you created in this step [Backup Image](https://github.com/lori28167/android-koboglo/blob/main/README.md)
+If you didn't created it you're screwed and it's not my fault so you will need to use brain next time.
+To restore it use the same image flasher you used to put android on the kobo sd card but instead of the android image select the one you created before doing the android flash.
+
 Made with ❤️ by Lori
-
-
 Good luck
