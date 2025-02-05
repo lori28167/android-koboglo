@@ -1,5 +1,6 @@
 # Android for Kobo Glo
 ![Android on Kobo Glo](https://github.com/user-attachments/assets/77eadadf-ce7f-46e7-a910-b2493bf226c7)
+<p></p>
 This project is based on open source projects (Android, Linux Kernel, Android Apps)
 
 # What you need
